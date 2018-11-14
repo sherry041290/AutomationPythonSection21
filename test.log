@@ -1,0 +1,4 @@
+11/13/2018 06:23:56 PM - LoggingConfig - WARNING - This is warning! ^^
+11/13/2018 06:23:56 PM - LoggingConfig - ERROR - This is error
+11/13/2018 06:23:56 PM - LoggingConfig - INFO - Log information
+11/13/2018 06:23:56 PM - LoggingConfig - CRITICAL -  This is critical message

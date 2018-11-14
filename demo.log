@@ -1,0 +1,3 @@
+WARNING:root:This is warning!
+ERROR:root:this is error
+INFO:root:Log information
