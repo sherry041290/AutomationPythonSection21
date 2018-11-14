@@ -16,7 +16,7 @@ def customlogfile(loglevel):
     # Formatter
     formatter_set = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s: %(message)s',
                     datefmt='%m/%d/%Y %I:%M:%S %p')
-    handler_set.format(formatter_set)
+    handler_set.setFormatter(formatter_set)
 
     # Add Handler to logger
     logger.addHandler(handler_set)
